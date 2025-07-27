@@ -2,7 +2,6 @@
 
 A clean and responsive web-based Calculator built using HTML, CSS, and JavaScript. Designed as part of my internship at **Future Intern**, this project supports essential arithmetic operations with a minimal and modern interface.
 
-![Preview](https://raw.githubusercontent.com/swaroop-bug/Calculator/main/preview.png)
 
 ## 🚀 Features
 
