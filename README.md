@@ -20,9 +20,9 @@ Try it out here 👉 [https://swaroop-bug.github.io/Calculator/](https://swaroop
 - **Frontend:** HTML, CSS
 - **Functionality:** JavaScript (Vanilla)
   
-#Images
-<img width="926" height="752" alt="image" src="https://github.com/user-attachments/assets/70785580-18fc-4b0b-a066-ce1430aa74f6" />
-<img width="717" height="755" alt="image" src="https://github.com/user-attachments/assets/e96bd8a6-7a33-4482-b21c-1e2ff397b25a" />
+# Images
+<img width="717" height="752" alt="image" src="https://github.com/user-attachments/assets/70785580-18fc-4b0b-a066-ce1430aa74f6" />
+<img width="717" height="752" alt="image" src="https://github.com/user-attachments/assets/e96bd8a6-7a33-4482-b21c-1e2ff397b25a" />
 
 
 
