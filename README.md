@@ -18,7 +18,7 @@ Try it out here 👉 [https://swaroop-bug.github.io/Calculator/](https://swaroop
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS
-- **Functionality:** JavaScript (Vanilla)
+- **Functionality:** JavaScript 
   
 # Images
 <img width="717" height="752" alt="image" src="https://github.com/user-attachments/assets/70785580-18fc-4b0b-a066-ce1430aa74f6" />
