@@ -1,0 +1,86 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: radial-gradient(circle, rgba(255, 255, 255, 1), rgba(0, 0, 0, 0.8)), url('https://source.unsplash.com/random/1920x1080');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+.calculator {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+  border-radius: 30px;
+  padding: 25px;
+  width: 320px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+}
+
+
+#display {
+  width: 100%;
+  height: 60px;
+  font-size: 2.4rem;
+  border: none;
+  border-radius: 10px;
+  text-align: right;
+  background: #000000;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  justify-items: center;
+
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  font-size: 1.2rem;
+  border-radius: 50%; 
+  border: none;
+  background: #2b2c3b;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button:hover {
+  background: rgba(255, 255, 255, 0.15);
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  transition:ease-in-out 0.2s;
+  color: rgb(0, 0, 0);
+}
+
+
+button:active {
+  transform: scale(1);
+  box-shadow: none;
+}
+
+
+.equal {
+  background: #ff5722;
+  color: white;
+}
+
+.equal:hover {
+  background: #837c7c;
+}
+
+
